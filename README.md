@@ -1,4 +1,4 @@
-# Birthday Gift 🎀
+# Birthday Gift 
 
 **[Open the birthday gift →](https://larissa070115-cmyk.github.io/birthday-gift-page/)**
 
